@@ -1,0 +1,22 @@
+#Hi guys this my Git command file
+git init
+git add . / <File name>
+git config --global user.name "Name"
+git config --global user.email "Email Id"
+git config user.name "Name"
+git config user.email "Email Id"
+git config --list
+git commit -m "Message"
+git status
+git log
+git banch 
+git branch <Branch name>
+git checkout <Branch name>
+git merge <Branch name>
+git clone <URL>
+git branch -d <Branch name>
+git stats
+git blame <File name>
+git rebame <Branch name>
+git commit --amend
+git branch -a
