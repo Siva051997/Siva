@@ -23,3 +23,5 @@ git commit --amend
 git branch -a
 git remote add origin <URL>
 git push -u origin maste
+git fetch
+git pull
