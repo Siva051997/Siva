@@ -25,3 +25,5 @@ git remote add origin <URL>
 git push -u origin maste
 git fetch
 git pull
+git commit --amend
+git push -f origin master / <Branch name>
